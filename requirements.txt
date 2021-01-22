@@ -1,0 +1,17 @@
+beautifulsoup4==4.9.3
+certifi==2020.12.5
+chardet==4.0.0
+colorama==0.4.4
+configparser==5.0.1
+crayons==0.4.0
+idna==2.10
+lxml==4.6.2
+Naked==0.1.31
+pycryptodomex==3.9.9
+PyYAML==5.3.1
+requests==2.25.1
+selenium==3.141.0
+shellescape==3.8.1
+soupsieve==2.1
+urllib3==1.26.2
+webdriver-manager==3.2.2
